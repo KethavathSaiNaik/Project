@@ -1,0 +1,22 @@
+# Core HTTP
+requests>=2.31.0
+
+# NLP preprocessing
+nltk>=3.8.1
+
+# String similarity
+fuzzywuzzy>=0.18.0
+python-Levenshtein>=0.21.1
+
+# Semantic embeddings
+sentence-transformers>=2.2.2
+
+# ML utilities (TF-IDF)
+scikit-learn>=1.3.0
+
+# Numeric backend (required by sklearn / transformers)
+numpy>=1.23.0
+
+# Progress bars (optional but safe dependency of sentence-transformers)
+tqdm>=4.66.0
+dotenv
