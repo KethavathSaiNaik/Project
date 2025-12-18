@@ -11,6 +11,7 @@ from Pipelines.sentence_splitter import (
 from Retrieval.bm25_retriever import run_bm25
 from Retrieval.faiss_retriever import run_faiss
 from Retrieval.fusion_and_ranking import run_fusion
+from Inference.deberta_nli import run_deberta_nli
 
 import os
 import json
@@ -43,7 +44,7 @@ def main():
     setup_nltk()
     setup_sentence_tokenizer()
 
-    query_text = "AI techniques can identify tumors early by analyzing genomic expression patterns"
+    query_text = "Lionel Messi won the FIFA World Cup with Argentina in 2022."
     query_id = f"q_{datetime.now().strftime('%Y%m%d_%H%M%S')}_{uuid4().hex[:6]}"
 
     all_docs = []
@@ -78,6 +79,13 @@ def main():
 
     print("⚖️ Running fusion & ranking...")
     run_fusion(query_id, alpha=0.6, top_k=5)
+
+    print("🧠 Running DeBERTa NLI (multi-evidence single-shot)...")
+    run_deberta_nli(
+        query_id=query_id,
+        claim=query_text,
+        top_k=5
+    )
 
 
 if __name__ == "__main__":

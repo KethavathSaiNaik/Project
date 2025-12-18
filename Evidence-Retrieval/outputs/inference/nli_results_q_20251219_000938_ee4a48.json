@@ -1,0 +1,14 @@
+{
+  "query_id": "q_20251219_000938_ee4a48",
+  "claim": "Lionel Messi won the FIFA World Cup with Argentina in 2022.",
+  "label": "SUPPORTS",
+  "confidence": 0.9960042834281921,
+  "used_sentence_ids": [
+    "s_wiki_1_2",
+    "s_wiki_4_0",
+    "s_gnews_10_0",
+    "s_wiki_7_0",
+    "s_wiki_2_0"
+  ],
+  "num_evidence_used": 5
+}

@@ -1,0 +1,66 @@
+{
+  "query_id": "q_20251219_000938_ee4a48",
+  "total_results": 5,
+  "results": [
+    {
+      "query_id": "q_20251219_000938_ee4a48",
+      "sentence_id": "s_wiki_1_2",
+      "final_score": 0.9840655478517399,
+      "bm25_score": 12.661428409282935,
+      "faiss_score": 0.5907687544822693,
+      "sentence_text": "The reigning champions are Argentina, who won their third title at the 2022 World Cup by defeating France.",
+      "doc_id": "wiki_1",
+      "source": "wikipedia",
+      "title": "FIFA World Cup",
+      "url": "https://en.wikipedia.org/wiki/FIFA_World_Cup"
+    },
+    {
+      "query_id": "q_20251219_000938_ee4a48",
+      "sentence_id": "s_wiki_4_0",
+      "final_score": 0.8116736101954634,
+      "bm25_score": 8.687293239134846,
+      "faiss_score": 0.61391681432724,
+      "sentence_text": "The 2022 FIFA World Cup was the 22nd FIFA World Cup, the quadrennial world championship for national football teams organised by FIFA.",
+      "doc_id": "wiki_4",
+      "source": "wikipedia",
+      "title": "2022 FIFA World Cup",
+      "url": "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup"
+    },
+    {
+      "query_id": "q_20251219_000938_ee4a48",
+      "sentence_id": "s_gnews_10_0",
+      "final_score": 0.6413110607523962,
+      "bm25_score": 5.504800329447706,
+      "faiss_score": 0.5855156779289246,
+      "sentence_text": "Luis Suárez will continue his football career at Inter Miami, alongside Lionel Messi, for the 2026 season.",
+      "doc_id": "gnews_10",
+      "source": "gnews",
+      "title": "Luis Suárez Joins Messi Again at Inter Miami for 2026 Season",
+      "url": "https://www.devdiscourse.com/article/sports-games/3734195-luis-suarez-joins-messi-again-at-inter-miami-for-2026-season"
+    },
+    {
+      "query_id": "q_20251219_000938_ee4a48",
+      "sentence_id": "s_wiki_7_0",
+      "final_score": 0.6009377066329605,
+      "bm25_score": 5.832876197264864,
+      "faiss_score": 0.5042800903320312,
+      "sentence_text": "The 2030 FIFA World Cup will be the 24th FIFA World Cup, a quadrennial international football tournament contested by the men's national teams of the member associations of FIFA.",
+      "doc_id": "wiki_7",
+      "source": "wikipedia",
+      "title": "2030 FIFA World Cup",
+      "url": "https://en.wikipedia.org/wiki/2030_FIFA_World_Cup"
+    },
+    {
+      "query_id": "q_20251219_000938_ee4a48",
+      "sentence_id": "s_wiki_2_0",
+      "final_score": 0.6008126101582445,
+      "bm25_score": 6.0530645282048114,
+      "faiss_score": 0.48894041776657104,
+      "sentence_text": "The 2026 FIFA World Cup, marketed as FIFA World Cup 26, will be the 23rd FIFA World Cup, the quadrennial international men's soccer championship contested by the national teams of the member associations of FIFA.",
+      "doc_id": "wiki_2",
+      "source": "wikipedia",
+      "title": "2026 FIFA World Cup",
+      "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup"
+    }
+  ]
+}

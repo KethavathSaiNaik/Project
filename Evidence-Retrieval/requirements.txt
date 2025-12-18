@@ -26,5 +26,10 @@ scikit-learn>=1.3.0
 # Numeric backend
 numpy>=1.23.0
 
-# Progress bars (dependency-safe)
+# Deep learning (NLI)
+torch>=2.0.0
+transformers>=4.36.0
+safetensors>=0.4.0
+
+# Progress bars
 tqdm>=4.66.0
