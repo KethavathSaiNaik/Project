@@ -1,0 +1,66 @@
+{
+  "query_id": "q_20251218_005743_eb7a44",
+  "total_results": 5,
+  "results": [
+    {
+      "query_id": "q_20251218_005743_eb7a44",
+      "sentence_id": "s_scholar_5_2",
+      "final_score": 0.9201846470551498,
+      "bm25_score": 13.66353290036263,
+      "faiss_score": 0.4896588921546936,
+      "sentence_text": "ML and DL offer a scalable, automated approach, analyzing medical images and genomic data to identify patterns that may be missed by humans.",
+      "doc_id": "scholar_5",
+      "source": "semantic_scholar",
+      "title": "AI Driven Detection of Skin and Oral Cancer: A Survey of Machine Learning and Deep Learning Approaches",
+      "url": "https://www.semanticscholar.org/paper/9dd9c666cb8369b72fec010e3a6dfd9b161cf59e"
+    },
+    {
+      "query_id": "q_20251218_005743_eb7a44",
+      "sentence_id": "s_scholar_1_4",
+      "final_score": 0.7547987390075405,
+      "bm25_score": 10.619800256900941,
+      "faiss_score": 0.4325987696647644,
+      "sentence_text": "By combining genomic, clinical, and environmental data, AI-powered models can predict resistance patterns, enabling early detection and more targeted public health interventions.",
+      "doc_id": "scholar_1",
+      "source": "semantic_scholar",
+      "title": "Genomic Surveillance and Prediction of Antibiotic Resistance Trends Using AI Tools",
+      "url": "https://www.semanticscholar.org/paper/4774416e487b137dd6bda061efd7951852d08717"
+    },
+    {
+      "query_id": "q_20251218_005743_eb7a44",
+      "sentence_id": "s_scholar_8_3",
+      "final_score": 0.735062476054918,
+      "bm25_score": 10.148935401821785,
+      "faiss_score": 0.43429034948349,
+      "sentence_text": "The system uses machine learning and contemporary data processing techniques to identify health-related patterns.",
+      "doc_id": "scholar_8",
+      "source": "semantic_scholar",
+      "title": "AI-Driven Insights into Fetal Genomics for Predicting Developmental Anomalies",
+      "url": "https://www.semanticscholar.org/paper/6b9151efaf15e707fbf259617cf96c4408251f69"
+    },
+    {
+      "query_id": "q_20251218_005743_eb7a44",
+      "sentence_id": "s_scholar_4_2",
+      "final_score": 0.68935354440596,
+      "bm25_score": 6.743971680637188,
+      "faiss_score": 0.620986819267273,
+      "sentence_text": "AI and ML have introduced novel approaches to handle the massive volumes of genomic data, uncovering complex biological and genetic patterns that traditional methods often struggle to interpret.",
+      "doc_id": "scholar_4",
+      "source": "semantic_scholar",
+      "title": "AI and ML in Genomic Research: Unlocking the Potential of Precision Medicine",
+      "url": "https://www.semanticscholar.org/paper/71d80ec98cdf3668005491bae1f8d7f4992d6bfa"
+    },
+    {
+      "query_id": "q_20251218_005743_eb7a44",
+      "sentence_id": "s_scholar_6_5",
+      "final_score": 0.6790991277180103,
+      "bm25_score": 9.284271299378108,
+      "faiss_score": 0.401930034160614,
+      "sentence_text": "Comparison between the accessibility patterns, transcription factor motifs, and differences in accessibility versus expression profiles can then be used to expand prior knowledge of early pancreatic neoplasia and identify novel targets for further study and therapy selection.",
+      "doc_id": "scholar_6",
+      "source": "semantic_scholar",
+      "title": "Abstract C056: Characterization of chromatin accessibility patterns in the human pancreas and early pancreatic neoplastic lesions using snATAC-seq",
+      "url": "https://www.semanticscholar.org/paper/eee7faf599c3d04827a3bdb6a5acb4e73be0ca2f"
+    }
+  ]
+}

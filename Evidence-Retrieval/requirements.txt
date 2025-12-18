@@ -1,6 +1,9 @@
 # Core HTTP
 requests>=2.31.0
 
+# Environment variables
+python-dotenv>=1.0.0
+
 # NLP preprocessing
 nltk>=3.8.1
 
@@ -11,12 +14,17 @@ python-Levenshtein>=0.21.1
 # Semantic embeddings
 sentence-transformers>=2.2.2
 
-# ML utilities (TF-IDF)
+# Vector search
+faiss-cpu>=1.7.4
+
+# Lexical retrieval
+rank-bm25>=0.2.2
+
+# ML utilities
 scikit-learn>=1.3.0
 
-# Numeric backend (required by sklearn / transformers)
+# Numeric backend
 numpy>=1.23.0
 
-# Progress bars (optional but safe dependency of sentence-transformers)
+# Progress bars (dependency-safe)
 tqdm>=4.66.0
-dotenv
