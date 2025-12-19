@@ -1,0 +1,167 @@
+{
+  "query_id": "q_20251220_001835_30be97",
+  "query_text": "Smoking reduces the risk of lung cancer",
+  "total_docs": 20,
+  "documents": [
+    {
+      "doc_id": "wiki_1",
+      "source": "wikipedia",
+      "title": "Lung cancer",
+      "url": "https://en.wikipedia.org/wiki/Lung_cancer",
+      "text": "Lung cancer, also called lung carcinoma, is a malignant tumor that originates in the tissues of the lungs. Lung cancer is caused by genetic damage to the DNA of cells in the airways, often caused by cigarette smoking or inhaling damaging chemicals. Damaged airway cells gain the ability to multiply unchecked, causing the growth of a tumor. Without treatment, tumors spread throughout the lung, damaging lung function. Eventually lung tumors metastasize, spreading to other parts of the body.",
+      "query_id": "q_20251220_001835_30be97"
+    },
+    {
+      "doc_id": "wiki_2",
+      "source": "wikipedia",
+      "title": "Lung nodule",
+      "url": "https://en.wikipedia.org/wiki/Lung_nodule",
+      "text": "A lung nodule or pulmonary nodule is a relatively small focal density in the lung. A solitary pulmonary nodule (SPN) or coin lesion, is a mass in the lung smaller than three centimeters in diameter. A pulmonary micronodule has a diameter of less than three millimetres. There may also be multiple nodules.",
+      "query_id": "q_20251220_001835_30be97"
+    },
+    {
+      "doc_id": "wiki_3",
+      "source": "wikipedia",
+      "title": "Cancer",
+      "url": "https://en.wikipedia.org/wiki/Cancer",
+      "text": "Cancer is a group of diseases involving abnormal cell growth with the potential to invade or spread to other parts of the body. These contrast with benign tumors, which do not spread. Possible signs and symptoms of cancer include a lump, abnormal bleeding, prolonged cough, unexplained weight loss, and a change in bowel movements. While these symptoms may indicate cancer, they can also have other causes. Over 100 types of cancers affect humans.",
+      "query_id": "q_20251220_001835_30be97"
+    },
+    {
+      "doc_id": "wiki_4",
+      "source": "wikipedia",
+      "title": "Lung cavity",
+      "url": "https://en.wikipedia.org/wiki/Lung_cavity",
+      "text": "A lung cavity or pulmonary cavity is an abnormal, thick-walled, air-filled space within the lung. Cavities in the lung can be caused by infections, cancer, autoimmune conditions, trauma, congenital defects, or pulmonary embolism. The most common cause of a single lung cavity is lung cancer. Bacterial, mycobacterial, and fungal infections are common causes of lung cavities. Globally, tuberculosis is likely the most common infectious cause of lung cavities. Less commonly, parasitic infections can cause cavities. Viral infections almost never cause cavities. The terms cavity and cyst are frequently used interchangeably; however, a cavity is thick walled, while a cyst is thin walled. The distinction is important because cystic lesions are unlikely to be cancer, while cavitary lesions are often caused by cancer.",
+      "query_id": "q_20251220_001835_30be97"
+    },
+    {
+      "doc_id": "wiki_5",
+      "source": "wikipedia",
+      "title": "Smoking cessation",
+      "url": "https://en.wikipedia.org/wiki/Smoking_cessation",
+      "text": "Smoking cessation, usually called quitting smoking or stopping smoking, is the process of discontinuing tobacco smoking. Tobacco smoke contains nicotine, which is addictive and can cause dependence. As a result, nicotine withdrawal often makes the process of quitting difficult.",
+      "query_id": "q_20251220_001835_30be97"
+    },
+    {
+      "doc_id": "wiki_6",
+      "source": "wikipedia",
+      "title": "Smoking",
+      "url": "https://en.wikipedia.org/wiki/Smoking",
+      "text": "Smoking is a human behavior which involves the combustion of a substance, usually plant material, and the inhalation of resulting fumes. Today, smoking is mostly practiced by rolling the dried leaves of the tobacco plant into a cigarette. Other forms of tobacco smoking include the use of a smoking tobacco with a pipe or cigar, or using a bong. Cigarette smokers almost always inhale the smoke; most pipe and cigar smokers do not inhale.",
+      "query_id": "q_20251220_001835_30be97"
+    },
+    {
+      "doc_id": "wiki_7",
+      "source": "wikipedia",
+      "title": "Lung",
+      "url": "https://en.wikipedia.org/wiki/Lung",
+      "text": "The lungs are the primary organs of the respiratory system in many animals, including humans. In mammals and most other tetrapods, two lungs are located near the backbone on either side of the heart. Their function in the respiratory system is to extract oxygen from the atmosphere and transfer it into the bloodstream, and to release carbon dioxide from the bloodstream into the atmosphere, in a process of gas exchange. Respiration is driven by different muscular systems in different species. Mammals, reptiles and birds use their musculoskeletal systems to support and foster breathing. In early tetrapods, air was driven into the lungs by the pharyngeal muscles via buccal pumping, a mechanism still seen in amphibians. In humans, the primary muscle that drives breathing is the diaphragm. The lungs also provide airflow that makes vocalisation including speech possible.",
+      "query_id": "q_20251220_001835_30be97"
+    },
+    {
+      "doc_id": "wiki_8",
+      "source": "wikipedia",
+      "title": "Treatment of lung cancer",
+      "url": "https://en.wikipedia.org/wiki/Treatment_of_lung_cancer",
+      "text": "Treatment of lung cancer refers to the use of medical therapies, such as surgery, radiation, chemotherapy, immunotherapy, percutaneous ablation, and palliative care, alone or in combination, in an attempt to cure or lessen the adverse impact of malignant neoplasms originating in lung tissue.",
+      "query_id": "q_20251220_001835_30be97"
+    },
+    {
+      "doc_id": "wiki_9",
+      "source": "wikipedia",
+      "title": "Lung surgery",
+      "url": "https://en.wikipedia.org/wiki/Lung_surgery",
+      "text": "Lung surgery is a type of thoracic surgery involving the repair or removal of lung tissue, and can be used to treat a variety of conditions ranging from lung cancer to pulmonary hypertension. Common operations include anatomic and nonanatomic resections, pleurodesis and lung transplants. Though records of lung surgery date back to the Classical Age, new techniques such as VATS continue to be developed.",
+      "query_id": "q_20251220_001835_30be97"
+    },
+    {
+      "doc_id": "wiki_10",
+      "source": "wikipedia",
+      "title": "Chance",
+      "url": "https://en.wikipedia.org/wiki/Chance",
+      "text": "Chance may refer to:",
+      "query_id": "q_20251220_001835_30be97"
+    },
+    {
+      "doc_id": "gnews_1",
+      "source": "gnews",
+      "title": "Think smoking only harms the lungs? What a US-based gastroenterologist wants you to know",
+      "url": "https://www.indiatvnews.com/health/think-smoking-only-harms-the-lungs-what-a-us-based-gastroenterologist-wants-you-to-know-2025-12-19-1022393",
+      "text": "Smoking is commonly associated with lung damage, but its impact goes far beyond that. A US-based gastroenterologist sheds light on the lesser-known ways smoking affects the body, interferes with healing, and quietly contributes to health problems over time.",
+      "query_id": "q_20251220_001835_30be97"
+    },
+    {
+      "doc_id": "gnews_2",
+      "source": "gnews",
+      "title": "Breaking the link between smoking and lung cancer: Support for prevention and pain relief",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/breaking-the-link-between-smoking-and-lung-cancer-support-for-prevention-and-pain-relief/photostory/126056188.cms",
+      "text": "As the weather turns colder, many people notice their breathing feels a little heavier and chest discomfort rises. For people with smoking habits, these seasonal changes can make the already existing symptoms even harder. As irritation increases, cough worsens, and the lungs struggle more. These factors make the colder months an important time for them to focus more on lung health.",
+      "query_id": "q_20251220_001835_30be97"
+    },
+    {
+      "doc_id": "gnews_3",
+      "source": "gnews",
+      "title": "Wiz Khalifa sentenced to nine months in prison in Romania after smoking cannabis at 2024 music festival",
+      "url": "https://www.dailymail.co.uk/tvshowbiz/article-15396969/Wiz-Khalifa-sentenced-prison-Romania-smoking-cannabis-music-festival.html",
+      "text": "Wiz Khalifa was sentenced by a court in Romania on Thursday to nine months in jail for drug possession after taking part in a music festival last year in the Eastern European country.",
+      "query_id": "q_20251220_001835_30be97"
+    },
+    {
+      "doc_id": "gnews_4",
+      "source": "gnews",
+      "title": "Wiz Khalifa sentenced to nine months jail in Romania",
+      "url": "https://www.bbc.com/news/articles/c93wxp2p05xo",
+      "text": "The rapper, who has been sentenced in absentia, had admitted to smoking a cannabis joint on stage at a festival last year.",
+      "query_id": "q_20251220_001835_30be97"
+    },
+    {
+      "doc_id": "gnews_5",
+      "source": "gnews",
+      "title": "TB prevention and cure",
+      "url": "https://www.manilatimes.net/2025/12/19/business/top-business/tb-prevention-and-cure/2246375",
+      "text": "AS a director of the Philippine Tuberculosis Society, Inc. (PTSI), my advocacy extends beyond treating TB — it must also confront one of the strongest drivers of the disease: smoking in all its forms, including vaping.",
+      "query_id": "q_20251220_001835_30be97"
+    },
+    {
+      "doc_id": "gnews_6",
+      "source": "gnews",
+      "title": "Down Arrow Button Icon",
+      "url": "https://fortune.com/2025/12/18/loneliness-epidemic-bowling-alone-25-years-later/",
+      "text": "In 2023, then Surgeon General Vivek Murthy reported on an “epidemic of loneliness and isolation,” similar to previous advisories on smoking and obesity.",
+      "query_id": "q_20251220_001835_30be97"
+    },
+    {
+      "doc_id": "gnews_7",
+      "source": "gnews",
+      "title": "Did you know smoking injures the stomach? Florida gastroenterologist shares 3 common ‘gut toxins’ you should avoid",
+      "url": "https://www.hindustantimes.com/lifestyle/health/did-you-know-smoking-injures-the-stomach-florida-gastroenterologist-shares-3-common-gut-toxins-you-should-avoid-101766064323416.html",
+      "text": "Daily activities like smoking and painkiller use can silently injure your stomach lining, negatively impacting gut health. Dr Salhab shares 3 such “gut toxins.” | Health",
+      "query_id": "q_20251220_001835_30be97"
+    },
+    {
+      "doc_id": "gnews_8",
+      "source": "gnews",
+      "title": "‘Hard work, no smoking and no drinking’: Ireland’s oldest person celebrates 109th birthday",
+      "url": "https://www.irishtimes.com/ireland/2025/12/18/hard-work-no-smoking-and-no-drinking-irelands-oldest-person-celebrates-109th-birthday/",
+      "text": "Eileen Hynes has lived through War of Independence, Civil War, 10 papacies and 20 US presidencies",
+      "query_id": "q_20251220_001835_30be97"
+    },
+    {
+      "doc_id": "gnews_9",
+      "source": "gnews",
+      "title": "'I’m A Railway Employee, Do Whatever You Want': 'Arrogant' Man Smokes Inside Train, Sparks Outrage | VIDEO",
+      "url": "https://www.timesnownews.com/viral/im-a-railway-employee-do-whatever-you-want-arrogant-man-smokes-inside-train-sparks-outrage-video-article-153313430",
+      "text": "A viral video showing a man allegedly smoking inside a train and claiming to be a railway employee has triggered widespread outrage on social media., Viral, Times Now",
+      "query_id": "q_20251220_001835_30be97"
+    },
+    {
+      "doc_id": "gnews_10",
+      "source": "gnews",
+      "title": "Think smoking only harms your lungs? It may be destroying your vision too",
+      "url": "https://www.theweek.in/news/health/2025/12/18/think-smoking-only-harms-your-lungs-it-may-be-destroying-your-vision-too.html",
+      "text": "Smoking and vaping don’t just harm the heart and lungs—they also increase the risk of affecting your vision",
+      "query_id": "q_20251220_001835_30be97"
+    }
+  ]
+}
