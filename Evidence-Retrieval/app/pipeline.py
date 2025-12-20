@@ -2,7 +2,7 @@ from datetime import datetime
 from uuid import uuid4
 import os
 import json
-
+from app.explainability_chatbot import build_explainability_index
 from Pipelines.nltk_setup import setup_nltk
 from Pipelines.Wiki import wiki_pipeline
 from Pipelines.Scholar import scholar_pipeline
@@ -12,7 +12,7 @@ from Pipelines.sentence_splitter import (
     split_documents_into_sentences,
     save_sentences_to_json
 )
-
+from app.output_cleanup import cleanup_old_queries
 from Retrieval.bm25_retriever import run_bm25
 from Retrieval.faiss_retriever import run_faiss
 from Retrieval.fusion_and_ranking import run_fusion
@@ -110,7 +110,7 @@ def verify_claim_pipeline(query_text: str):
         claim=query_text,
         top_k=5
     )
-
+    build_explainability_index(query_id, top_k=5)
     if nli_result is None:
         print("❌ NLI failed — no result returned")
         return {
@@ -150,7 +150,7 @@ def verify_claim_pipeline(query_text: str):
     print(f"   🏷 Label      : {nli_result['label']}")
     print(f"   📈 Confidence : {nli_result.get('confidence')}")
     print("=" * 90 + "\n")
-
+    cleanup_old_queries()
     # ---------------- API RESPONSE ----------------
     return {
         "query_id": query_id,
