@@ -1,0 +1,247 @@
+{
+  "query_id": "q_20251224_163535_196ed8",
+  "query_text": "Lionel Messi won FIFA world cup by defeating France in Final",
+  "total_docs": 30,
+  "documents": [
+    {
+      "doc_id": "wiki_1",
+      "source": "wikipedia",
+      "title": "FIFA World Cup",
+      "url": "https://en.wikipedia.org/wiki/FIFA_World_Cup",
+      "text": "The FIFA World Cup, often called the World Cup, is an international association football competition among the senior men's national teams of the members of the Fédération Internationale de Football Association (FIFA), the sport's global governing body. The tournament has been held every four years since the inaugural tournament in 1930, with the exception of 1942 and 1946 due to the Second World War. The reigning champions are Argentina, who won their third title at the 2022 World Cup by defeating France.",
+      "query_id": "q_20251224_163535_196ed8"
+    },
+    {
+      "doc_id": "wiki_2",
+      "source": "wikipedia",
+      "title": "2026 FIFA World Cup",
+      "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
+      "text": "The 2026 FIFA World Cup, marketed as FIFA World Cup 26, will be the 23rd FIFA World Cup, the quadrennial international men's soccer championship contested by the national teams of the member associations of FIFA. The tournament will take place from June 11 to July 19, 2026. It will be jointly hosted by sixteen cities—eleven in the United States, three in Mexico, and two in Canada. The tournament will be the first to be hosted by three nations.",
+      "query_id": "q_20251224_163535_196ed8"
+    },
+    {
+      "doc_id": "wiki_3",
+      "source": "wikipedia",
+      "title": "List of FIFA World Cup finals",
+      "url": "https://en.wikipedia.org/wiki/List_of_FIFA_World_Cup_finals",
+      "text": "The FIFA World Cup is an international association football competition contested by the senior men's national teams of the Fédération Internationale de Football Association (FIFA), the sport's global governing body. The championship has been awarded every four years since 1930, except in 1942 and 1946, when it was not held because of World War II.",
+      "query_id": "q_20251224_163535_196ed8"
+    },
+    {
+      "doc_id": "wiki_4",
+      "source": "wikipedia",
+      "title": "2022 FIFA World Cup",
+      "url": "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup",
+      "text": "The 2022 FIFA World Cup was the 22nd FIFA World Cup, the quadrennial world championship for national football teams organised by FIFA. It took place in Qatar from 20 November to 18 December 2022, after the country was awarded the hosting rights in 2010. It was the first World Cup to be held in the Middle East and the Arabian Peninsula, and the second in an Asian country after the 2002 tournament in South Korea and Japan.",
+      "query_id": "q_20251224_163535_196ed8"
+    },
+    {
+      "doc_id": "wiki_5",
+      "source": "wikipedia",
+      "title": "2018 FIFA World Cup",
+      "url": "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup",
+      "text": "The 2018 FIFA World Cup was the 21st FIFA World Cup, the quadrennial world championship for national football teams organised by FIFA. It took place in Russia from 14 June to 15 July 2018, after the country was awarded the hosting rights in late 2010. It was the eleventh time the championships had been held in Europe and the first time they were held in Eastern Europe, also featuring one or two venues, depending on definition, located across the boundary with Asia. At an estimated cost of over $14.2 billion, it was the most expensive World Cup ever held until it was surpassed by the 2022 World Cup in Qatar.",
+      "query_id": "q_20251224_163535_196ed8"
+    },
+    {
+      "doc_id": "wiki_6",
+      "source": "wikipedia",
+      "title": "2030 FIFA World Cup",
+      "url": "https://en.wikipedia.org/wiki/2030_FIFA_World_Cup",
+      "text": "The 2030 FIFA World Cup will be the 24th FIFA World Cup, a quadrennial international football tournament contested by the men's national teams of the member associations of FIFA.",
+      "query_id": "q_20251224_163535_196ed8"
+    },
+    {
+      "doc_id": "wiki_7",
+      "source": "wikipedia",
+      "title": "2010 FIFA World Cup",
+      "url": "https://en.wikipedia.org/wiki/2010_FIFA_World_Cup",
+      "text": "The 2010 FIFA World Cup was the 19th FIFA World Cup, the world championship for men's national football teams. It took place in South Africa from 11 June to 11 July 2010. The bidding process for hosting the tournament finals was open only to African nations. In 2004, the international football federation, FIFA, selected South Africa over Egypt and Morocco to become the first African nation to host the finals.",
+      "query_id": "q_20251224_163535_196ed8"
+    },
+    {
+      "doc_id": "wiki_8",
+      "source": "wikipedia",
+      "title": "1994 FIFA World Cup",
+      "url": "https://en.wikipedia.org/wiki/1994_FIFA_World_Cup",
+      "text": "The 1994 FIFA World Cup was the 15th FIFA World Cup, the world championship for men's national soccer teams. It was hosted by the United States and took place from June 17 to July 17, 1994, at nine venues across the country. The United States was chosen as the host by FIFA on July 4, 1988. Despite soccer's relative lack of popularity in the host nation, the tournament was the most financially successful in World Cup history. It broke tournament records with overall attendance of 3,587,538 and an average of 68,991 per game, figures that stand unsurpassed as of 2022, despite the expansion of the competition from 24 to 32 teams starting with the 1998 World Cup.",
+      "query_id": "q_20251224_163535_196ed8"
+    },
+    {
+      "doc_id": "wiki_9",
+      "source": "wikipedia",
+      "title": "2006 FIFA World Cup",
+      "url": "https://en.wikipedia.org/wiki/2006_FIFA_World_Cup",
+      "text": "The 2006 FIFA World Cup was the 18th FIFA World Cup, the quadrennial international football world championship tournament. It was held from 9 June to 9 July 2006 in Germany, which had won the right to host the event in July 2000. Teams representing 198 national football associations from all six populated continents participated in the qualification process which began in September 2003. Thirty-one teams qualified from this process along with hosts Germany for the finals tournament. It was the second time that Germany staged the competition and the first as a unified country along with the former East Germany with Leipzig as a host city, and the 10th time that the tournament was held in Europe.",
+      "query_id": "q_20251224_163535_196ed8"
+    },
+    {
+      "doc_id": "wiki_10",
+      "source": "wikipedia",
+      "title": "2014 FIFA World Cup",
+      "url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "text": "The 2014 FIFA World Cup was the 20th FIFA World Cup, the quadrennial world championship for men's national football teams organised by FIFA. It took place in Brazil from 12 June to 13 July 2014, after the country was awarded the hosting rights in 2007. It was the second time that Brazil staged the competition, the first being in 1950, and the fifth time that it was held in South America.",
+      "query_id": "q_20251224_163535_196ed8"
+    },
+    {
+      "doc_id": "scholar_1",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Expected goals in football: Improving model performance and demonstrating value",
+      "url": "https://openalex.org/W4362602314",
+      "text": "Recently, football has seen the creation of various novel, ubiquitous metrics used throughout clubs’ analytics departments. These can influence many of their day-to-day operations ranging from financial decisions on player transfers, to evaluation of team performance. At the forefront of this scientific movement is the metric expected goals , a measure which allows analysts to quantify how likely a given shot is to result in a goal however, xG models have not until this point considered using important features, e.g., player/team ability and psychological effects, and is not widely trusted by everyone in the wider football community. This study aims to solve both these issues through the implementation of machine learning techniques by, modelling expected goals values using previously untested features and comparing the predictive ability of traditional statistics against this newly developed metric. Error values from the expected goals models built in this work were shown to be competitive with optimal values from other papers, and some of the features added in this study were revealed to have a significant impact on expected goals model outputs. Secondly, not only was expected goals found to be a superior predictor of a football team’s future success when compared to traditional statistics, but also our results outperformed those collected from an industry leader in the same area.",
+      "query_id": "q_20251224_163535_196ed8"
+    },
+    {
+      "doc_id": "scholar_2",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Banal religiosity: Brazilian athletes as new missionaries of the neo-Pentecostal diaspora",
+      "url": "https://openalex.org/W2020962774",
+      "text": "This article is about the relationship between football and religion. It focuses on the recent proliferation of neo-Pentecostalism among Brazilian football players living abroad and the importance of religion in their daily lives. Serving as a civilizing device that promotes better insertion of individuals in modern institutions, neo-Pentecostalism promotes voluntary obedience, self-control, self-awareness and reflexivity, by encouraging the conscious and constant monitoring of the individual over the body and emotions. This self-discipline has a limit, and the Theology of Prosperity offers conciliation between asceticism and material consumption. Football provides religion a large stage for its preaching, allowing it to reach billions of homes. The athletes become \"selfless soldiers of the Word,\" who demonstrate the faith globally and disseminate banal religion through the mediascape.",
+      "query_id": "q_20251224_163535_196ed8"
+    },
+    {
+      "doc_id": "scholar_3",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Past, present and future of goal scoring analysis in professional soccer (Pasado, presente y futuro del análisis de goles en el fútbol profesional)",
+      "url": "https://openalex.org/W2967673305",
+      "text": "Abstract. The aim of this theoretical review is to summarize the key performance indicators and contextual variables that have been related to goal scoring in soccer, as well as to discuss the new perspectives and future challenges for the development of research studies on this topic. Firstly, situational variables such as match location, time of the game, opponent level, as well as match status have been shown to have an influence on goal scoring. Secondly, tactical factors such as the team possession type of start, starting zone, initial opponent positioning, type of attack, pass number per possession, type of assist, finishing zone and type of finishing have been described as performance indicators related to goal scoring in professional soccer. During the past, the vast majority of studies analysed tactical or technical indicators isolated from the complex and multifactorial process of creating goal scoring situations. Currently, the emergence of new research methods such as position data, network analysis, temporal patterns or mixed methods has broadened the possibilities for researchers to capture the complexity of soccer actions and interactions. Thus, some future challenges in the analysis of goal scoring in soccer should explore: a) the multidimensional evaluation of shooting effectiveness, b) the goal effectiveness of different styles of play, c) the goal-scorer’s skills, d) the further exploration of the effect of players interactions on goal scoring, e) f) the effects of training methods on goal scoring and f) the influence of contextual variables on goal scoring actions.Resumen. El objetivo de esta revisión teórica es sintetizar los principales indicadores de rendimiento y variables contextuales que han sido relacionados con marcar goles en fútbol, así como discutir nuevas perspectivas y futuros retos en el desarrollo de estudios científicos sobre este tema. En primer lugar, variables contextuales como localización del partido, tiempo de juego, nivel del oponente y marcador han mostrado una influencia en el proceso de marcar goles. En segundo lugar, indicadores tácticos como el tipo de inicio de la posesión ofensiva, la zona de inicio, el posicionamiento inicial del equipo rival, el tipo de ataque, el número de pases por posesión, el tipo de asistencia, la zona de finalización y el tipo de finalización han sido descritos en la literatura relacionada con el análisis del gol en fútbol. Sin embargo, la gran mayoría de estudios han analizado indicadores tácticos y técnicos aislados del proceso complejo y multifactorial que supone generar situaciones de gol. En los últimos años, han surgido nuevas metodologías de investigación como el “position data”, “análisis de redes”, “análisis de patrones temporales” y “métodos mixtos” que han aumentado las posibilidades de capturar e investigar la complejidad de las acciones e interacciones del juego en fútbol. Por lo tanto, algunos de los retos de futuros estudios sobre análisis de los goles en fútbol deberían explorar: a) la evaluación multidimensional de la efectividad del tiro en fútbol, b) la efectividad para marcar gol de diferentes estilos de juego, c) las habilidades especificas de los goleadores, d) la mayor exploración del efecto de las interacciones entre jugadores en la generación de situaciones de gol, e) los efectos del entrenamiento en la capacidad de marcar goles y f) la influencia de las variables contextuales en las acciones relacionadas con los goles.",
+      "query_id": "q_20251224_163535_196ed8"
+    },
+    {
+      "doc_id": "scholar_4",
+      "source": "semantic_scholar OpenAlex",
+      "title": "A football player rating system",
+      "url": "https://openalex.org/W3094125272",
+      "text": "Association football (soccer) is the most popular sport in the world, resulting in a large economic interest from investors, team managers, and betting agencies. For this reason, a vast number of rating systems exists to assess the strength of football teams or individual players. Nevertheless, most of the existing approaches incorporate deficiencies, e. g., that they depend on subjective ratings from experts. The objective of this work was the development of a new rating system for determining the playing strength of football players. The Elo algorithm, which has established itself as an objective and adaptive rating system in numerous individual sports, has been expanded in accordance with the requirements of team sports. Matches from 16 different European domestic leagues, the UEFA Champions and Europa Leagues have been recorded, with more than 17 000 matches played in recent years, and 12 400 different players. The developed rating system produced promising results, when evaluating the matches based on its predictions. A high relevance of the created system results from the fact that only the associated match report is needed and thus—in relation to existing valuation models—significantly more football players can be assessed.",
+      "query_id": "q_20251224_163535_196ed8"
+    },
+    {
+      "doc_id": "scholar_5",
+      "source": "semantic_scholar OpenAlex",
+      "title": "THE EXCITEMENT OF FOOTBALL KICKS OFF IN QATAR: A SAMPLE OF TWITTER DATA ANALYSIS",
+      "url": "https://openalex.org/W4386998943",
+      "text": "This research was created by making use of the opinions of Twitter users about the Qatar 2022 World Cup, which has a great impact on the world. The countries and the football players who participated in the World Cup, the country where the organization was held, and the general assessments constitute the whole of the research. This case study, which reflects a social reality such as the World Cup, was examined by an inductive method. In order to achieve a more successful output in terms of more transparent and professional progress of the process, the MAXQDA program was preferred. This research was structured in two sections. Content analysis of 5,988 tweets posted in Turkish was conducted in the first section. According to the data obtained from the tweets posted by the viewers under the theme \"Qatar 2022 World Cup Overview\", the first section consists of 4 categories, namely \"Organization, Football Players, Countries, and Assessment\", 36 codes, and 11 sub-codes. Sentiment analysis of 79,574 tweets was conducted in the second section. Users tweeted Positive (15,973), Slightly positive (30,533), Negative (3,228), Slightly negative (6,529), and Neutral (23,311) emotional tweets. Codes, categories, and themes were created using the \"creative coding\" option included in the MAXQDA program. The completion of the codes created in the consensus, took place in a total of four months. The analysis was visualized, and the code frequencies were added using the \"MAXMaps Hierarchical Code-Subcode Model\" option on the \"visual tools\" tab of the program.",
+      "query_id": "q_20251224_163535_196ed8"
+    },
+    {
+      "doc_id": "scholar_6",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Mainstreamed and Marginalized: Female Athletes as the “Other” in International Sport Media Coverage",
+      "url": "https://openalex.org/W4211171084",
+      "text": "Western media critics have long observed that female athletes seldom receive more than a minimal amount of media coverage devoted to sport, due in large part to the masculine hegemony that pervades the sport industry.In the US and other Western countries, men's sports are overwhelmingly privileged in nearly all media contexts.Consequently, female athletes have been accustomed to being marginalized, sexualized, and, in some cases, rendered invisible by media outlets as they are situated as the \"Other\" in the press.According to feminist critics, sport normalizes men's power, as evidenced by the media's tendency to highlight women's physical attractiveness and marital status rather than their athletic skills.Increasingly, male privilege and bias are manifested through commentary intended to differentiate men's and women's sports rather than through blatant gendered stereotypes.The picture is not entirely bleak, however, with some increased media attention devoted to women's sports in audience-driven televised events like the Olympics, the World Cup, and professional tennis and golf tournaments; however, these are the exceptions.This article explores the sometimes paradoxical relationship between women's sport and \"Otherness,\" whereby women can be both mainstreamed and marginalized in contemporary popular media.",
+      "query_id": "q_20251224_163535_196ed8"
+    },
+    {
+      "doc_id": "scholar_7",
+      "source": "semantic_scholar OpenAlex",
+      "title": "FOOTBALL, NATION, AND WOMEN IN ARGENTINA: REDEFINING THE FIELD OF POWER",
+      "url": "https://openalex.org/W3124345579",
+      "text": "Quem tem protagonizado os relatos sobre a nação? Quem tem narrado as histórias sobre o esporte, o futebol e a pátria? Que instituições foram centrais nessas construções? O que aconteceu com as mulheres? Quais têm sido os argumentos para excluírlas do campo de jogo? Estas e outras perguntas organizam o presente artigo que tem como meta refletir em torno ao esporte como prática generificada e generificadora, como um espaço de produção de desigualdades e, também, de oportunidades. Os dados que sustentam o argumento deste artigo provém da análise de entrevistas e conversas informais que tivemos com as jogadoras da Seleção Nacional de Futebol e de equipes da liga oficial da Associação de Futebol Argentino (AFA) e das notícias da edição online do jornal Olé durante a Copa do Mundo de Futebol Feminino de 2019 na França.",
+      "query_id": "q_20251224_163535_196ed8"
+    },
+    {
+      "doc_id": "scholar_8",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Football player ranking generated by multivariate methods",
+      "url": "https://openalex.org/W4294539318",
+      "text": "The objective was to build a ranking of football players based on multivariate methods. The players evaluated were the winners of FIFA; UEFA; Ballon D'Or; FIFPro; World Soccer; Golden Ball World Cup and King of América awards. A total of 95 players were evaluated based on the variables: games played, wins, draws, losses, goals scored, yellow/red cards, awards, dream team, title in national leagues/ continental championships in a football club, title in world cups/ continental championship in a national team, Olympics gold medal. We performed the multivariate clustering and principal components analyses. The grouping technique resulted in three groups: regionally renowned players (Group 1), renowned players for their extraordinary performance (Group 2), and globally renowned players (Group 3). The players in Group 2, except for Maradona, reached the highest indexes. The leaders of the ranking were Messi, Cristiano Ronaldo, Xavi, Pelé, and Iniesta.",
+      "query_id": "q_20251224_163535_196ed8"
+    },
+    {
+      "doc_id": "scholar_9",
+      "source": "semantic_scholar OpenAlex",
+      "title": "The association between Saudi football clubs and the loyalty of their fanbase, a cross-sectional study.",
+      "url": "https://openalex.org/W4300965667",
+      "text": "This cross-sectional study analyzes the association between Saudi football clubs and the loyalty of their fanbase and evaluates how the fans are acting as consumers toward their football clubs. Data was collected through a questionnaire. The research was carried out on a sample of 2,317 participants. The findings show that more than half of participants have attended a football match in the Saudi football league whereas 23.7% preferred to watch their favorite team in the stadium. Furthermore, the loyalty of the fans can also be evaluated by the purchases of the club related products as the participants majority own their favorite club shirts where almost half of them have purchased another club’s products. The limitations of the study that it is focused on limited behaviors of the fans and further investigations can be achieved to include what are the factors preventing the fans from being loyal to their football clubs or why they are not attending to the stadiums although they have showed the intention to.",
+      "query_id": "q_20251224_163535_196ed8"
+    },
+    {
+      "doc_id": "scholar_10",
+      "source": "semantic_scholar OpenAlex",
+      "title": "Nation Branding Through a Mega-Event: A Case Study of Qatar 2022",
+      "url": "https://openalex.org/W3094732063",
+      "text": "The purpose of this study was to investigate the nation branding process deployed by a host country organizing committee. Three research questions helped guide this study: (1) How does the organizing committee see the opportunity of hosting a sport-mega event (SME) as a nation branding tool? (2) What aspects of the FIFA World Cup (FWC) do people working with the organizing committee believe, create such nation branding opportunities? (3) How do event organizers leverage a nation branding legacy from the FWC? A single case study was built using 1,669 document pages, and nine semi-structured interviews and data were thematically analyzed. The study investigated relevant organizational documents and the event organizers’ perspectives to determine the nation branding processes. Results revealed the organization's approach to nation branding involved assessing their external image, creating a country narrative based on the population's characteristics and values, and depicting a unique identity by showcasing their cultural heritage to increase the attraction of the nation brand. Findings highlight that nation branding through the FWC requires the LOC’s strategic coordination through nation brand stakeholders, nation brand ambassadors, important organizations as well as the leadership of the nation in order to build brand equity.",
+      "query_id": "q_20251224_163535_196ed8"
+    },
+    {
+      "doc_id": "gnews_1",
+      "source": "gnews",
+      "title": "I ran to save my life amid chaos, recalls London-based Indian singer",
+      "url": "https://timesofindia.indiatimes.com/city/kolkata/i-ran-to-save-my-life-amid-chaos-recalls-london-based-indian-singer/articleshow/126144229.cms",
+      "text": "Kolkata: What was meant to be a once-in-a-lifetime musical tribute to football legend Lionel Messi turned into a harrowing experience for London-based.",
+      "query_id": "q_20251224_163535_196ed8"
+    },
+    {
+      "doc_id": "gnews_2",
+      "source": "gnews",
+      "title": "Satadru may be taken to stadium this week for reconstruction of events",
+      "url": "https://timesofindia.indiatimes.com/city/kolkata/satadru-may-be-taken-to-stadium-this-week-for-reconstruction-of-events/articleshow/126144203.cms",
+      "text": "Kolkata: Satadru Dutta, organiser of the Lionel Messi event at Salt Lake Stadium, is likely to be taken to the venue in next three days for reconstruc.",
+      "query_id": "q_20251224_163535_196ed8"
+    },
+    {
+      "doc_id": "gnews_3",
+      "source": "gnews",
+      "title": "Ran to save my life: London-based singer recounts Messi's Kolkata event chaos",
+      "url": "https://www.indiatoday.in/india/story/messi-event-chaos-kolkata-london-based-singer-charles-antony-recounts-crowd-unrest-safety-fears-2840698-2025-12-23",
+      "text": "London-based singer Charles Antony describes panic at Salt Lake Stadium during Lionel Messi’s visit, highlighting crowd unrest, safety lapses, and his own narrow escape.",
+      "query_id": "q_20251224_163535_196ed8"
+    },
+    {
+      "doc_id": "gnews_4",
+      "source": "gnews",
+      "title": "Lionel Messi’s Sister Hospitalized Following Serious Accident, Wedding Plans Delayed",
+      "url": "https://athlonsports.com/soccer/lionel-messi-sister-hospitalized-following-serious-accident-wedding-plans-delayed",
+      "text": "Lionel Messi's sister Maria gets involved in a serious car accident.",
+      "query_id": "q_20251224_163535_196ed8"
+    },
+    {
+      "doc_id": "gnews_5",
+      "source": "gnews",
+      "title": "Lionel Messi's Sister And Fashion Designer Is Hospitalised After Serious Accident",
+      "url": "https://www.newsx.com/world/meet-maria-sol-messi-lionel-messis-sister-and-fashion-designer-is-hospitalised-after-serious-accident-133686/",
+      "text": "Maria Sol Messi, Lionel Messi’s younger sister, is set to marry Inter Miami U-19 coach Julián “Tuli” Arellano, though the wedding has been postponed due to her recent car accident. A successful businesswoman and fashion designer, she runs her own bikini brand and has worked on Messi’s ventures, carving out her own identity beyond her brother’s fame.",
+      "query_id": "q_20251224_163535_196ed8"
+    },
+    {
+      "doc_id": "gnews_6",
+      "source": "gnews",
+      "title": "Lionel Messi's Sister Maria Sol, Seriously Injured In Horrific Miami Car Crash Ahead Of Wedding",
+      "url": "https://www.newsx.com/world/lionel-messis-sister-maria-sol-seriously-injured-in-horrific-miami-car-crash-ahead-of-wedding-133678/",
+      "text": "Lionel Messi Sister Maria Sol: Lionel Messi and his family are facing a difficult period after his younger sister, Maria Sol, was seriously injured in a horrific car accident in Miami",
+      "query_id": "q_20251224_163535_196ed8"
+    },
+    {
+      "doc_id": "gnews_7",
+      "source": "gnews",
+      "title": "Lionel Messi’s Sister Hospitalised Following Miami Car Accident; Wedding Postponed- Report",
+      "url": "https://www.republicworld.com/sports/football/lionel-messis-sister-hospitalised-following-miami-car-accident-wedding-postponed-report",
+      "text": "As per reports, Maria Sol has been forced to postpone her wedding to a member of Inter Miami’s coaching staff scheduled for next month due to the accident.",
+      "query_id": "q_20251224_163535_196ed8"
+    },
+    {
+      "doc_id": "gnews_8",
+      "source": "gnews",
+      "title": "Leo Messi-Kolkata Fiasco: From Social Media Backlash To Pre-Poll Flashpoint",
+      "url": "https://www.outlookindia.com/national/leo-messi-kolkata-fiasco-from-social-media-backlash-to-pre-poll-flashpoint",
+      "text": "Following the embarrassment, Lionel Messi has become the centrepiece of political exchanges in the lead up to the West Bengal assembly elections scheduled in a few months.",
+      "query_id": "q_20251224_163535_196ed8"
+    },
+    {
+      "doc_id": "gnews_9",
+      "source": "gnews",
+      "title": "Lionel Messi's sister 'injured in serious car crash' and 'forced to postpone wedding'",
+      "url": "https://talksport.com/football/3845473/lionel-messi-sister-injured-car-crash-postpone-wedding/",
+      "text": "Lionel Messi's sister has reportedly had to suspend her wedding after being injured in a serious car crash.Maria Sol Messi is said to have suffered sp",
+      "query_id": "q_20251224_163535_196ed8"
+    },
+    {
+      "doc_id": "gnews_10",
+      "source": "gnews",
+      "title": "Lionel Messi Family Hit by Massive Scare, Road Accident Leaves Argentina Legend's Sister with Burns and Spinal Injuries",
+      "url": "https://www.timesnownews.com/sports/football/lionel-messi-family-hit-by-massive-scare-road-accident-leaves-sister-with-burns-and-spinal-injuries-article-153337112",
+      "text": "Lionel Messi's sister has been seriously injured in a road accident ahead of wedding to an Inter Miami staff member., Football, Times Now",
+      "query_id": "q_20251224_163535_196ed8"
+    }
+  ]
+}

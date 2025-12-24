@@ -1,0 +1,66 @@
+{
+  "query_id": "q_20251224_163535_196ed8",
+  "total_results": 5,
+  "results": [
+    {
+      "query_id": "q_20251224_163535_196ed8",
+      "sentence_id": "s_wiki_1_2",
+      "final_score": 0.9709198333967507,
+      "bm25_score": 19.91701523345406,
+      "faiss_score": 0.43283361196517944,
+      "sentence_text": "The reigning champions are Argentina, who won their third title at the 2022 World Cup by defeating France.",
+      "doc_id": "wiki_1",
+      "source": "wikipedia",
+      "title": "FIFA World Cup",
+      "url": "https://en.wikipedia.org/wiki/FIFA_World_Cup"
+    },
+    {
+      "query_id": "q_20251224_163535_196ed8",
+      "sentence_id": "s_wiki_8_0",
+      "final_score": 0.631625614629854,
+      "bm25_score": 7.688818158401601,
+      "faiss_score": 0.4718981981277466,
+      "sentence_text": "The 1994 FIFA World Cup was the 15th FIFA World Cup, the world championship for men's national soccer teams.",
+      "doc_id": "wiki_8",
+      "source": "wikipedia",
+      "title": "1994 FIFA World Cup",
+      "url": "https://en.wikipedia.org/wiki/1994_FIFA_World_Cup"
+    },
+    {
+      "query_id": "q_20251224_163535_196ed8",
+      "sentence_id": "s_wiki_5_0",
+      "final_score": 0.6123237361688889,
+      "bm25_score": 9.604378344048008,
+      "faiss_score": 0.36845001578330994,
+      "sentence_text": "The 2018 FIFA World Cup was the 21st FIFA World Cup, the quadrennial world championship for national football teams organised by FIFA.",
+      "doc_id": "wiki_5",
+      "source": "wikipedia",
+      "title": "2018 FIFA World Cup",
+      "url": "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup"
+    },
+    {
+      "query_id": "q_20251224_163535_196ed8",
+      "sentence_id": "s_wiki_4_0",
+      "final_score": 0.5833678068065236,
+      "bm25_score": 9.604378344048008,
+      "faiss_score": 0.3295523226261139,
+      "sentence_text": "The 2022 FIFA World Cup was the 22nd FIFA World Cup, the quadrennial world championship for national football teams organised by FIFA.",
+      "doc_id": "wiki_4",
+      "source": "wikipedia",
+      "title": "2022 FIFA World Cup",
+      "url": "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup"
+    },
+    {
+      "query_id": "q_20251224_163535_196ed8",
+      "sentence_id": "s_wiki_10_0",
+      "final_score": 0.5758708516811072,
+      "bm25_score": 9.406842843993468,
+      "faiss_score": 0.32747524976730347,
+      "sentence_text": "The 2014 FIFA World Cup was the 20th FIFA World Cup, the quadrennial world championship for men's national football teams organised by FIFA.",
+      "doc_id": "wiki_10",
+      "source": "wikipedia",
+      "title": "2014 FIFA World Cup",
+      "url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup"
+    }
+  ]
+}

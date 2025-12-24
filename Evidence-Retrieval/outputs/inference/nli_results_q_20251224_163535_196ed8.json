@@ -1,0 +1,14 @@
+{
+  "query_id": "q_20251224_163535_196ed8",
+  "claim": "Lionel Messi won FIFA world cup by defeating France in Final",
+  "label": "SUPPORTS",
+  "confidence": 0.9929292798042297,
+  "used_sentence_ids": [
+    "s_wiki_1_2",
+    "s_wiki_8_0",
+    "s_wiki_5_0",
+    "s_wiki_4_0",
+    "s_wiki_10_0"
+  ],
+  "num_evidence_used": 5
+}
